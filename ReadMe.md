@@ -1,6 +1,6 @@
 **Overview**
-<img src="/img/___.png" />
+<img src="/img/Overview.png" />
 **Detail**
-<img src="/img/__.png" />
+<img src="/img/Detail.png" />
 **Wireframe**
-<img src="/img/__.png" />
+<img src="/img/Wireframe.png" />
